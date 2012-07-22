@@ -1,0 +1,17 @@
+#Content Type API
+Almost all CMSs lock your content into their system. The aim of the Content Type API (working title) is to have all content separated out of CMSs.
+
+As well, Content Type API encourages creating separate types of content to easily utilize in your system (web site, web app, native app, and more), as opposed to nonreusable content blobs.
+
+##API Calls
+1. Create Content Type
+2. Edit Content Type
+3. Add Field to Content Type
+4. Edit Field of Content Type
+5. Add Entry to Cotent Type
+6. Edit Entry of Content Type
+
+7. Pull a Content Type
+8. Pull all Content Types
+9. Pull all Contents of All Content Types
+10. Pull all Contents of a Content Type
